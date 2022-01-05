@@ -15,3 +15,8 @@
 * In this repository I deal with netcdf4 data extracted from [www.opencolour.org](https://www.oceancolour.org/thredds/ncss/grid/CCI_ALL-v3.1-DAILY/dataset.html) website
 * Task involved simulating the scenarios with algorithms from the standard literature related to primary production in ocean (German Bight), also includes euler method implementation for ODEs.
 * Done in programming language R
+## [Data-Visualisation-with-Python-and-R](https://github.com/sarker2018/Data-Visualisation-with-Python-and-R)
+* In this repo. I created few common plots and visualizations both in R and python
+* Library used; 
+    * Python: Matplotlib, Seaborn
+    * R : ggplot and R-base library
