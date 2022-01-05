@@ -43,7 +43,7 @@
 * Library used: Tesorflow, Pandas, numpy, keras, sklearn, nltk, seaborn, Matplotlib etc.
 
 ## [SQL-Task-Solutions-Beginners](https://github.com/sarker2018/SQL-Task-Solutions-Beginners):
-* This is very small task could encountered for entry level 
+* This is very small task could  be encountered during entry level job application process. 
 * Task descriptions and soulution can be found in the __`SQL-Task_Solution.ipynb`__ file in the repo-link.
 
 
