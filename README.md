@@ -38,6 +38,9 @@
 * For a detailed overview, please click the link provied on the heading.
 
 ## [Phishing web url detection with deep learning and logistic classifier.](https://github.com/sarker2018/Phishing-Web-url-Detection-with-Deep-Learning-and-Logistic-classifier)
+* In this project, I implement fake url detection using both deep learning and logistic classifier.
+* Techniques used: tockenization, word stemming, word lemmatization, word-vector, 
+* Library used: Tesorflow, Pandas, numpy, keras, sklearn, nltk, seaborn, Matplotlib etc.
 
 
 
