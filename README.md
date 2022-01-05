@@ -42,6 +42,11 @@
 * Techniques used: tockenization, word stemming, word lemmatization, word-vector, 
 * Library used: Tesorflow, Pandas, numpy, keras, sklearn, nltk, seaborn, Matplotlib etc.
 
+## [SQL-Task-Solutions-Beginners](https://github.com/sarker2018/SQL-Task-Solutions-Beginners):
+* This is very small task could encountered for entry level 
+* Task descriptions and soulution can be found in the __`SQL-Task_Solution.ipynb`__ file in the repo-link.
+
+
 
 
 
