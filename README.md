@@ -20,3 +20,21 @@
 * Library used; 
     * Python: Matplotlib, Seaborn
     * R : ggplot and R-base library
+
+## [Power-BI-Project](https://github.com/sarker2018/Power-BI-Project-Beginner)
+* It was my first Power BI project and it explains how a beginner can create their first PowerBi report/dashboard step by step
+* One can recreate the project by following the link provided at the heading
+
+## [Project-Management](https://github.com/sarker2018/Project-Management#project-management)
+* In this repo I recored and summarised the project managements theories agile and general project management from different paid cources and standard books
+* There are multiple markdown files in the link for different project management approaches
+## [Hand gesture recognition: deep learning](https://github.com/sarker2018/Hand-Gesture-Recognition-Deep-Learning)
+* This project deals with Hand Gestures Recognistion from video clips collected from user devices
+* Library used: Tensorflow, keras, sklearn, matplotlib, numpy, pandas, cv2
+* Techniques used are: Conv2D, Conv3D, Dropout, ImageDataGenerator, Gradient Descent.
+* For a detailed overview, please click the link provied on the heading.
+
+
+
+
+
