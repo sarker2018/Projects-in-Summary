@@ -46,7 +46,10 @@
 * This is very small task could  be encountered during entry level job application process. 
 * Task descriptions and soulution can be found in the __`SQL-Task_Solution.ipynb`__ file in the repo-link.
 
-## [R-ShinyAppWithDashboard]()
+## [R-Shiny-App](https://github.com/sarker2018/R-ShinyApp/blob/main/README.md)
+* I this repo I provide the links of two interactive time series plot:
+     * First App: Created using R-shiny with checker boxes
+     * Second App: Created using plotly with option to hover the mouse over the plot and get the corresponding values.
 
 
 
