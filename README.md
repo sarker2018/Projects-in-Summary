@@ -14,6 +14,7 @@
 ## [time-series-framework-review](https://github.com/sarker2018/time-series-framework-review):
 * In this repository I created a framework review of time series approaches used in machine learning (mainly in neural network areas)
 * Repository covers most of the deep learning time series algorithms for both __univariate__ & __multivariate__ datasets.
+* Later, I am going to upload the Box-Jenkins method (ARIMA). Vector Auto-Regression (VAR), and other common methods such as Exponential Time Smoothing ETS, and Random Walk Models.
 ## [Ecosystem-modeling-and-simulation](Ecosystem-modeling-and-simulation):
 * In this repository I deal with netcdf4 data extracted from [www.opencolour.org](https://www.oceancolour.org/thredds/ncss/grid/CCI_ALL-v3.1-DAILY/dataset.html) website
 * Task involved simulating the scenarios with algorithms from the standard literature related to primary production in ocean (German Bight), also includes euler method implementation for ODEs.
