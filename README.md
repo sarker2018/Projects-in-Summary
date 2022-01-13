@@ -30,6 +30,8 @@
 * Dataset is completely unique and collected from a long term ocean observation project near euator (Atlantic Ocean)
 * When the the permission is granted, the data will be uploaded in the repository.
 * But, for a initial overview, two pictures are given in the original repository (on the link of the heading)
+* Tools used:
+     * Python, Jupyter Notebook, Tensorflow, Numpy, Pandas, Scipy, Sklearn, Matplotlib, etc.
 
 
 ## [Power-BI-Project](https://github.com/sarker2018/Power-BI-Project-Beginner)
