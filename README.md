@@ -25,7 +25,7 @@
     * Python: Matplotlib, Seaborn
     * R : ggplot and R-base library
 
-## [Multivariate-Time-Series-Bi-Directional-LSTM](https://github.com/sarker2018/Multivariate-Time-Series-Bi-Directional-LSTM/blob/main/README.md)
+## [Multivariate-Time-Series-Bi-Directional-LSTM](https://github.com/sarker2018/Multivariate-Time-Series-Bi-Directional-LSTM)
 * This repo gives a base model of Bi-Directional LSTM
 * Dataset is completely unique and collected from a long term ocean observation project near euator (Atlantic Ocean)
 * When the the permission is granted, the data will be uploaded in the repository.
