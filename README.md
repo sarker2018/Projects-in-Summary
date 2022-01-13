@@ -1,4 +1,5 @@
 # Summary of the Repositories and the Projects finished.
+## Please click on the highlighted headings of respective project to get to the original repo.
 
 ## [Generalised linear models GLM and ANOVA with R](https://github.com/sarker2018/Generalized-Linear-Models-GLM-and-ANOVA):
 * In this project I tested a hypothesis called EICA hypotheses (related to plant growth competition between native and foreign plants).
