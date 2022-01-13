@@ -39,7 +39,10 @@
      * Python, Jupyter Notebook, Tensorflow, Numpy, Pandas, Scipy, Sklearn, Matplotlib, etc.
 
 ## [My Master Thesis Expose](https://github.com/sarker2018/My-Master-Thesis-Expose):
-
+* This is the initial proposal or Expose of my master thesis at Data Science Department, University of Kiel
+* This thesis deals with Time Series Forecasting (Machine Learning Approaches of Time Series Analysis).
+* Tools used:
+     * RMarkdown, Pandoc, latex, Python, and R.
 
 ## [Power-BI-Project](https://github.com/sarker2018/Power-BI-Project-Beginner)
 * It was my first Power BI project and it explains how a beginner can create their first PowerBi report/dashboard step by step
