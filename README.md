@@ -25,6 +25,13 @@
     * Python: Matplotlib, Seaborn
     * R : ggplot and R-base library
 
+## [Multivariate-Time-Series-Bi-Directional-LSTM](https://github.com/sarker2018/Multivariate-Time-Series-Bi-Directional-LSTM/blob/main/README.md)
+* This repo gives a base model of Bi-Directional LSTM
+* Dataset is completely unique and collected from a long term ocean observation project near euator (Atlantic Ocean)
+* When the the permission is granted, the data will be uploaded in the repository.
+* But, for a initial overview, two pictures are given in the original repository (on the link of the heading)
+
+
 ## [Power-BI-Project](https://github.com/sarker2018/Power-BI-Project-Beginner)
 * It was my first Power BI project and it explains how a beginner can create their first PowerBi report/dashboard step by step
 * One can recreate the project by following the link provided at the heading
