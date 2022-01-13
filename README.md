@@ -38,6 +38,8 @@
 * Tools used:
      * Python, Jupyter Notebook, Tensorflow, Numpy, Pandas, Scipy, Sklearn, Matplotlib, etc.
 
+## [My Master Thesis Expose](https://github.com/sarker2018/My-Master-Thesis-Expose):
+
 
 ## [Power-BI-Project](https://github.com/sarker2018/Power-BI-Project-Beginner)
 * It was my first Power BI project and it explains how a beginner can create their first PowerBi report/dashboard step by step
