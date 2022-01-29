@@ -65,11 +65,6 @@
      * First App: Created using R-shiny with checker boxes
      * Second App: Created using plotly with option to hover the mouse over the plot and get the corresponding values.
 
-# Project Management
-## [Project-Management](https://github.com/sarker2018/Project-Management#project-management)
-* In this repo I recored and summarised the project managements theories agile and general project management from different paid cources and standard books
-* There are multiple markdown files in the link for different project management approaches
-
 # SQL & PowerBI
 
 ## [SQL-Task-Solutions-With-sqllite3-and python](https://github.com/sarker2018/SQL-Task-Solutions-With-sqllite3-and-python):
@@ -81,6 +76,10 @@
 * One can recreate the project by following the link provided at the heading
 
 
+# Project Management
+## [Project-Management](https://github.com/sarker2018/Project-Management#project-management)
+* In this repo I recored and summarised the project managements theories agile and general project management from different paid cources and standard books
+* There are multiple markdown files in the link for different project management approaches
 
 
 
