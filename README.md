@@ -75,6 +75,9 @@
 * It was my first Power BI project and it explains how a beginner can create their first PowerBi report/dashboard step by step
 * One can recreate the project by following the link provided at the heading
 
+![grafik](https://user-images.githubusercontent.com/61450446/153118978-70a1bf2a-5801-4b86-8594-5059efbd41da.png)
+
+
 
 # Project Management
 ## [Project-Management](https://github.com/sarker2018/Project-Management#project-management)
