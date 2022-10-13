@@ -2,7 +2,6 @@
 ## Please click on the highlighted headings of the respective project to get to the original repo
 # Python Programming Language
 
-
 ## [Multivariate-Time-Series-Bi-Directional-LSTM](https://github.com/sarker2018/Multivariate-Time-Series-Bi-Directional-LSTM)
 * This repo gives a base model of Bi-Directional LSTM
 * Dataset is completely unique and collected from a long-term ocean observation project near equator (Atlantic Ocean)
